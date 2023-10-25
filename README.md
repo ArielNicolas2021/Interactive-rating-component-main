@@ -10,8 +10,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-WY4uem0_Fb](https://www.frontendmentor.io/solutions/interactive-rating-component-WY4uem0_Fb)
+- Live Site URL: [https://arielnicolas2021.github.io/Interactive-rating-component-main/](https://arielnicolas2021.github.io/Interactive-rating-component-main/)
 
 ### Built with
 
